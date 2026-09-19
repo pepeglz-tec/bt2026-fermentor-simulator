@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Colab
+sample_data/
+
+# Local user files (never commit these)
+notes/
+scratch/
+private/

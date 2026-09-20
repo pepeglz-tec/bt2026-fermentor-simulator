@@ -15,7 +15,7 @@ authors:
   - family-names: "González-Valdez"
     given-names: "José"
     affiliation: "Tecnológico de Monterrey"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"  # ← pega aquí tu ORCID descomentando esta línea
+    orcid: "https://orcid.org/0000-0001-6734-8245"
 version: "1.0.0"
 date-released: "2026-09-19"
 license: MIT

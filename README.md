@@ -1,6 +1,6 @@
 # BT2026 · Aerobic Fermentor Simulator
 
-[![Open EN in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pepeglz-tec/bt2026-fermentor-simulator/blob/main/notebooks/bt2026-fermentor-simulator-EN.ipynb) &nbsp; [![Open ES in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pepeglz-tec/bt2026-fermentor-simulator/blob/main/notebooks/simulador-fermentador-BT2026-ES.ipynb)
+[![Open EN in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pepeglz-tec/bt2026-fermentor-simulator/blob/main/notebooks/bt2026-fermentor-simulator-EN.ipynb) &nbsp; [![Open ES in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pepeglz-tec/bt2026-fermentor-simulator/blob/main/notebooks/simulador-fermentador-BT2026-ES.ipynb) &nbsp; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22850011.svg)](https://doi.org/10.5281/zenodo.22850011)
 
 > 🇪🇸 **En español:** [README.es.md](README.es.md)
 
@@ -79,11 +79,25 @@ MIT — see [LICENSE](LICENSE). You are free to fork, adapt, and redistribute th
 
 ## How to cite
 
-If you use this simulator in your own teaching, please cite the source. A DOI will be issued via Zenodo once the first tagged release is published.
+If you use this simulator in your own teaching, please cite it as:
 
-```
-González-Valdez, J. (2026). BT2026 · Aerobic Fermentor Simulator [Software].
-GitHub repository. https://github.com/pepeglz-tec/bt2026-fermentor-simulator
+González-Valdez, J. (2026). *An Auditable Aerobic Fermentor Simulator Tool for kₗa Determination and AI-Integrated Transport Phenomena Education* (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22850011
+
+BibTeX:
+
+```bibtex
+@software{gonzalezvaldez_2026_fermentor,
+  author       = {González-Valdez, José},
+  title        = {An Auditable Aerobic Fermentor Simulator Tool
+                  for k\_L a Determination and AI-Integrated
+                  Transport Phenomena Education},
+  month        = sep,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.22850011},
+  url          = {https://doi.org/10.5281/zenodo.22850011}
+}
 ```
 
 ---

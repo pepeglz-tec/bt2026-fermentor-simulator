@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "An Auditable Aerobic Fermentor Simulator Tool for kₗa Determination and AI-Integrated Transport Phenomena Education"
+abstract: >-
+  An interactive Gradio web application designed for teaching transport
+  phenomena in bioprocess engineering. The simulator performs kLa
+  determination by the dynamic method and simulates full aerobic
+  fermentation with coupled biomass, substrate, and dissolved oxygen
+  dynamics. Beyond its computational use, the simulator is designed as
+  an audit target: it embeds several undeclared assumptions that
+  students must discover through code inspection with AI assistance
+  and by contrasting the model against experimental datasets.
+authors:
+  - family-names: "González-Valdez"
+    given-names: "José"
+    affiliation: "Tecnológico de Monterrey"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # ← pega aquí tu ORCID descomentando esta línea
+version: "1.0.0"
+date-released: "2026-09-19"
+license: MIT
+repository-code: "https://github.com/pepeglz-tec/bt2026-fermentor-simulator"
+url: "https://github.com/pepeglz-tec/bt2026-fermentor-simulator"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22850011"
+    description: "Zenodo DOI for version 1.0.0"
+keywords:
+  - bioprocess engineering
+  - fermentation
+  - kLa
+  - mass transfer
+  - bioreactors
+  - engineering education
+  - AI in education
+  - transport phenomena
+  - biotechnology
+  - Gradio
+  - Python
+  - Jupyter Notebook
